@@ -1,5 +1,5 @@
 # Digit Discriminator and Generator Network
-One of the fun projects I was doing during my AI class. The objective is to use pytorch to create a discriminator to recongize input digit and a generator to print digits.
+One of the fun projects I was doing during my AI class. The objective is to use pytorch to create a discriminator to recongize input digit and a generator network to print digits.
 First time learning and using pytorch, so much fun! 
 ## The Discriminator:
 For our discriminator, we chose digit 1. The architecture of our discriminator consists of one input layer from 784 to 512 with the LeakyReLU function applied to it,
