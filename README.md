@@ -1,4 +1,4 @@
-# Digit-Discriminator-and-Generator
+# Digit Discriminator and Generator Network
 One of the fun projects I was doing during my AI class. The objective is to use pytorch to create a discriminator to recongize input digit and a generator to print digits.
 First time learning and using pytorch, so much fun! 
 ## The Discriminator:
